@@ -16,7 +16,7 @@ Forkea este repo y añade tu rama -> develop_{alias}. Desde tu rama:
 2 - Seguidamente, añade los cambios y comitea (¡con tu frase favorita de Star Wars!).
 3 - Finalmente solicita un Pull Request y ¡ya estamos sumando la fuerza!
 
-Bienvenido a la nave, ¡despegamos!xxx
+Bienvenido a la nave, ¡despegamos!xxxxxxxxxxx
 ```
 
 | id | Alias | Nombre | Apellido | Repositorio |
