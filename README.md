@@ -22,4 +22,3 @@ Bienvenido a la nave, ¡despegamos!
 | id | Alias | Nombre | Apellido | Repositorio |
 | :-------: | :-------: | :------: | :------: | :-------: |
 | 11 | TGacek89 | Tomasz | Gacek | [bitGames](https://github.com/Ch3ssMaster/bitgames) |
-x
