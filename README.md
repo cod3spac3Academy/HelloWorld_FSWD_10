@@ -25,3 +25,4 @@ Bienvenido a la nave, ¡despegamos!
 | 1 | karlajrdz | karla | rodriguez | [karla](https://github.com/karlajrdz) |
 | 2 | JhonyCode | Jonathan | Mulero | [Jony](https://github.com/JhonyCode) |
 | 3 | FranciscoCoder | Francisco | Marquez | [FranciscoCoder](https://github.com/FranciscoCoder) |
+| 4 | VivagaCS | Victor | Vazquez | [VivagaCS](https://github.com/VivagaCS) |
