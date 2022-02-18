@@ -21,4 +21,4 @@ Bienvenido a la nave, ¡despegamos!xxx
 
 | id | Alias | Nombre | Apellido | Repositorio |
 | :-------: | :-------: | :------: | :------: | :-------: |
-| 0 | Ch3ssMaster | Antonio | Cebrián | [bitGames](https://github.com/Ch3ssMaster/bitgames) |
+| 11 | TGacek89 | Tomasz | Gacek | [bitGames](https://github.com/Ch3ssMaster/bitgames) |
