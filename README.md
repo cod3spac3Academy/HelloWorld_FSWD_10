@@ -19,6 +19,7 @@ Forkea este repo y añade tu rama -> develop_{alias}. Desde tu rama:
 Bienvenido a la nave, ¡despegamos!
 ```
 
+<<<<<<< HEAD
 | id | Alias | Nombre | Apellido | Repositorio |
 | :-------: | :-------: | :------: | :------: | :-------: |
 | 0 | Ch3ssMaster | Antonio | Cebrián | [bitGames](https://github.com/Ch3ssMaster/bitgames) |
@@ -28,3 +29,15 @@ Bienvenido a la nave, ¡despegamos!
 | 4 | VivagaCS | Victor | Vazquez | [VivagaCS](https://github.com/VivagaCS) |
 | 5 | Yulml | Julio | Moreno | [Yulml](https://github.com/Yulml) |
 | 10 | RodrigoDiazCarrillo | Rodrigo | Díaz | [RodrigoDiazCarrillo](https://github.com/RodrigoDiazCarrillo) |
+=======
+|  id   |     Alias      |  Nombre   | Apellido  |                     Repositorio                     |
+| :---: | :------------: | :-------: | :-------: | :-------------------------------------------------: |
+|   0   |  Ch3ssMaster   |  Antonio  |  Cebrián  | [bitGames](https://github.com/Ch3ssMaster/bitgames) |
+|   1   |   karlajrdz    |   karla   | rodriguez |        [karla](https://github.com/karlajrdz)        |
+|   2   |   JhonyCode    | Jonathan  |  Mulero   |        [Jony](https://github.com/JhonyCode)         |
+|   3   | FranciscoCoder | Francisco |  Marquez  | [FranciscoCoder](https://github.com/FranciscoCoder) |
+|   4   |    VivagaCS    |  Victor   |  Vazquez  |       [VivagaCS](https://github.com/VivagaCS)       |
+|   5   |     Yulml      |   Julio   |  Moreno   |          [Yulml](https://github.com/Yulml)          |
+|   6   |   Marcelles0   |   Jorge   | Marcelles |     [Marcelles0](https://github.com/Marcelles0)     |
+|   7   | ElisaMSanchez  |   Elisa   |  Sanchez  |   [ElisaMSanchez](https://github.com/Marcelles0)    |
+>>>>>>> bb31ef5b0d10af2d7a30c87a2e433f1271138945
