@@ -23,4 +23,4 @@ Bienvenido a la nave, ¡despegamos!
 | :-------: | :-------: | :------: | :------: | :-------: |
 | 0 | Ch3ssMaster | Antonio | Cebrián | [bitGames](https://github.com/Ch3ssMaster/bitgames) |
 | 1 | karlajrdz | karla | rodriguez | [karla](https://github.com/karlajrdz) |
-
+| 13 | Mariopd87 | Mario | Pérez | [Mario](https://github.com/Mariopd87)|
