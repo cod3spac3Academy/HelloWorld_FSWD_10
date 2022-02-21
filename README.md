@@ -27,3 +27,4 @@ Bienvenido a la nave, ¡despegamos!
 | 3 | FranciscoCoder | Francisco | Marquez | [FranciscoCoder](https://github.com/FranciscoCoder) |
 | 4 | VivagaCS | Victor | Vazquez | [VivagaCS](https://github.com/VivagaCS) |
 | 5 | Yulml | Julio | Moreno | [Yulml](https://github.com/Yulml) |
+| 10 | RodrigoDiazCarrillo | Rodrigo | Díaz | [RodrigoDiazCarrillo](https://github.com/RodrigoDiazCarrillo) |
