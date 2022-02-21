@@ -29,4 +29,4 @@ Bienvenido a la nave, ¡despegamos!
 |   5   |     Yulml      |   Julio   |  Moreno   |          [Yulml](https://github.com/Yulml)          |
 |   6   |   Marcelles0   |   Jorge   | Marcelles |     [Marcelles0](https://github.com/Marcelles0)     |
 |   7   | ElisaMSanchez  |   Elisa   |  Sanchez  |   [ElisaMSanchez](https://github.com/Marcelles0)    |
-|   7   |    Kaiisea     |    Kai    |   Gómez   |        [Kaiisea](https://github.com/Kaiisea)        |
+|   8   |    Kaiisea     |    Kai    |   Gómez   |        [Kaiisea](https://github.com/Kaiisea)        |
