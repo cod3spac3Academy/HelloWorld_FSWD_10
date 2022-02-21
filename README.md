@@ -40,4 +40,5 @@ Bienvenido a la nave, ¡despegamos!
 |   5   |     Yulml      |   Julio   |  Moreno   |          [Yulml](https://github.com/Yulml)          |
 |   6   |   Marcelles0   |   Jorge   | Marcelles |     [Marcelles0](https://github.com/Marcelles0)     |
 |   7   | ElisaMSanchez  |   Elisa   |  Sanchez  |   [ElisaMSanchez](https://github.com/Marcelles0)    |
->>>>>>> bb31ef5b0d10af2d7a30c87a2e433f1271138945
+|   8   |    Kaiisea     |    Kai    |   Gómez   |        [Kaiisea](https://github.com/Kaiisea)        |
+| 9 | RocioPG3 | Rocio  | Pinazo | [RocioPG3](https://github.com/RocioPG3) |
