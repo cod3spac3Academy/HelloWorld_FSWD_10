@@ -30,6 +30,6 @@ Bienvenido a la nave, ¡despegamos!
 |   6   |   Marcelles0   |   Jorge   | Marcelles |     [Marcelles0](https://github.com/Marcelles0)     |
 |   7   | ElisaMSanchez  |   Elisa   |  Sanchez  |   [ElisaMSanchez](https://github.com/Marcelles0)    |
 |   8   |    Kaiisea     |    Kai    |   Gómez   |        [Kaiisea](https://github.com/Kaiisea)        |
-| 9 | RocioPG3 | Rocio  | Pinazo | [RocioPG3](https://github.com/RocioPG3) |
+|   9   |    RocioPG3    |   Rocio   |   Pinazo  | [RocioPG3](https://github.com/RocioPG3) |
 | 10 | RodrigoDiazCarrillo | Rodrigo | Díaz | [RodrigoDiazCarrillo](https://github.com/RodrigoDiazCarrillo) |
 | 11 | TGacek89 | Tomasz | Gacek | [Tgacek89](https://github.com/TGacek89) |
