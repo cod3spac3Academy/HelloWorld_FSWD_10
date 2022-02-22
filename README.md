@@ -32,3 +32,7 @@ Bienvenido a la nave, ¡despegamos!
 |   8   |    Kaiisea     |    Kai    |   Gómez   |        [Kaiisea](https://github.com/Kaiisea)        |
 | 9 | RocioPG3 | Rocio  | Pinazo | [RocioPG3](https://github.com/RocioPG3) |
 | 10 | RodrigoDiazCarrillo | Rodrigo | Díaz | [RodrigoDiazCarrillo](https://github.com/RodrigoDiazCarrillo) |
+
+
+
+|  12  |  Benjamin-Re | Benjamin |   Renker   |    [Benjamin-Re](https://benjamin-re.github.io/etch-a-sketch/)     |
