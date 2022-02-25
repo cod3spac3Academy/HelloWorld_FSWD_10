@@ -19,10 +19,10 @@ Forkea este repo y añade tu rama -> develop_{alias}. Desde tu rama:
 Bienvenido a la nave, ¡despegamos!
 ```
 
-|  id   |     Alias      |  Nombre   | Apellido  |                     Repositorio                     |
-| :---: | :------------: | :-------: | :-------: | :-------------------------------------------------: |
-|   0   |  Ch3ssMaster   |  Antonio  |  Cebrián  | [bitGames](https://github.com/Ch3ssMaster/bitgames) |
-|   1   |   karlajrdz    |   karla   | rodriguez |        [karla](https://github.com/karlajrdz)        |
+| id | Alias | Nombre | Apellido | Repositorio |
+| :-------: | :-------: | :------: | :------: | :-------: |
+| 0 | Ch3ssMaster | Antonio | Cebrián | [bitGames](https://github.com/Ch3ssMaster/bitgames) |
+| 1 | karlajrdz | karla | rodriguez | [karla](https://github.com/karlajrdz) |
 |   2   |   JhonyCode    | Jonathan  |  Mulero   |        [Jony](https://github.com/JhonyCode)         |
 |   3   | FranciscoCoder | Francisco |  Marquez  | [FranciscoCoder](https://github.com/FranciscoCoder) |
 |   4   |    VivagaCS    |  Victor   |  Vazquez  |       [VivagaCS](https://github.com/VivagaCS)       |
@@ -34,3 +34,4 @@ Bienvenido a la nave, ¡despegamos!
 | 10 | RodrigoDiazCarrillo | Rodrigo | Díaz | [RodrigoDiazCarrillo](https://github.com/RodrigoDiazCarrillo) |
 | 11 | TGacek89 | Tomasz | Gacek | [Tgacek89](https://github.com/TGacek89) |
 |   12   |  Benjamin-Re   |  Benjamin  |  Renker  | [Benjamin-Re](https://github.com/Benjamin-Re)|
+| 13  |      Mariopd87      |   Mario   |   Pérez   |             [Mario](https://github.com/Mariopd87)             |
