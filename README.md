@@ -35,3 +35,4 @@ Bienvenido a la nave, ¡despegamos!
 | 11 | TGacek89 | Tomasz | Gacek | [Tgacek89](https://github.com/TGacek89) |
 |   12   |  Benjamin-Re   |  Benjamin  |  Renker  | [Benjamin-Re](https://github.com/Benjamin-Re)|
 | 13  |      Mariopd87      |   Mario   |   Pérez   |             [Mario](https://github.com/Mariopd87)             |
+| 14  |      giovannakbl      |   Giovanna   |   Bertuzzi   |             [giovannakbl](https://github.com/giovannakbl)             |
