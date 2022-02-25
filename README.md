@@ -23,4 +23,15 @@ Bienvenido a la nave, ¡despegamos!
 | :-------: | :-------: | :------: | :------: | :-------: |
 | 0 | Ch3ssMaster | Antonio | Cebrián | [bitGames](https://github.com/Ch3ssMaster/bitgames) |
 | 1 | karlajrdz | karla | rodriguez | [karla](https://github.com/karlajrdz) |
-| 13 | Mariopd87 | Mario | Pérez | [Mario](https://github.com/Mariopd87)|
+|   2   |   JhonyCode    | Jonathan  |  Mulero   |        [Jony](https://github.com/JhonyCode)         |
+|   3   | FranciscoCoder | Francisco |  Marquez  | [FranciscoCoder](https://github.com/FranciscoCoder) |
+|   4   |    VivagaCS    |  Victor   |  Vazquez  |       [VivagaCS](https://github.com/VivagaCS)       |
+|   5   |     Yulml      |   Julio   |  Moreno   |          [Yulml](https://github.com/Yulml)          |
+|   6   |   Marcelles0   |   Jorge   | Marcelles |     [Marcelles0](https://github.com/Marcelles0)     |
+|   7   | ElisaMSanchez  |   Elisa   |  Sanchez  |   [ElisaMSanchez](https://github.com/Marcelles0)    |
+|   8   |    Kaiisea     |    Kai    |   Gómez   |        [Kaiisea](https://github.com/Kaiisea)        |
+|   9   |    RocioPG3    |   Rocio   |   Pinazo  | [RocioPG3](https://github.com/RocioPG3) |
+| 10 | RodrigoDiazCarrillo | Rodrigo | Díaz | [RodrigoDiazCarrillo](https://github.com/RodrigoDiazCarrillo) |
+| 11 | TGacek89 | Tomasz | Gacek | [Tgacek89](https://github.com/TGacek89) |
+|   12   |  Benjamin-Re   |  Benjamin  |  Renker  | [Benjamin-Re](https://github.com/Benjamin-Re)|
+| 13  |      Mariopd87      |   Mario   |   Pérez   |             [Mario](https://github.com/Mariopd87)             |
