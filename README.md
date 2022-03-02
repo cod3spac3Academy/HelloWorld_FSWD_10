@@ -36,3 +36,4 @@ Bienvenido a la nave, ¡despegamos!
 |   12   |  Benjamin-Re   |  Benjamin  |  Renker  | [Benjamin-Re](https://github.com/Benjamin-Re)|
 | 13  |      Mariopd87      |   Mario   |   Pérez   |             [Mario](https://github.com/Mariopd87)             |
 | 14  |      giovannakbl      |   Giovanna   |   Bertuzzi   |             [giovannakbl](https://github.com/giovannakbl)             |
+| 15  |      Angela8374      |   Angela   |   Mancebo   |             [angela8374](https://github.com/Angela8374/Angela8374)             |
