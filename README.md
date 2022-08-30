@@ -23,20 +23,20 @@ Bienvenido a la nave, ¡despegamos!
 | :-------: | :-------: | :------: | :------: | :-------: |
 | 0 | Ch3ssMaster | Antonio | Cebrián | [bitGames](https://github.com/Ch3ssMaster/bitgames) |
 | 1 | karlajrdz | karla | rodriguez | [karla](https://github.com/karlajrdz) |
-|   2   |   JhonyCode    | Jonathan  |  Mulero   |        [Jony](https://github.com/JhonyCode)         |
-|   3   | FranciscoCoder | Francisco |  Marquez  | [FranciscoCoder](https://github.com/FranciscoCoder) |
-|   4   |    VivagaCS    |  Victor   |  Vazquez  |       [VivagaCS](https://github.com/VivagaCS)       |
-|   5   |     Yulml      |   Julio   |  Moreno   |          [Yulml](https://github.com/Yulml)          |
-|   6   |   Marcelles0   |   Jorge   | Marcelles |     [Marcelles0](https://github.com/Marcelles0)     |
-|   7   | ElisaMSanchez  |   Elisa   |  Sanchez  |   [ElisaMSanchez](https://github.com/Marcelles0)    |
-|   8   |    Kaiisea     |    Kai    |   Gómez   |        [Kaiisea](https://github.com/Kaiisea)        |
-|   9   |    RocioPG3    |   Rocio   |   Pinazo  | [RocioPG3](https://github.com/RocioPG3) |
+| 2 | JhonyCode | Jonathan | Mulero | [FitnessFastFood](https://github.com/JhonyCode/FitnessFastFood) |
+| 3 | FranciscoCoder | Francisco |  Marquez  | [FranciscoCoder](https://github.com/FranciscoCoder) |
+| 4 |    VivagaCS    |  Victor   |  Vazquez  |       [VivagaCS](https://github.com/VivagaCS)       |
+| 5 |     Yulml      |   Julio   |  Moreno   |          [Yulml](https://github.com/Yulml)          |
+| 6 |   Marcelles0   |   Jorge   | Marcelles |     [Marcelles0](https://github.com/Marcelles0)     |
+| 7 | ElisaMSanchez  |   Elisa   |  Sanchez  |   [ElisaMSanchez](https://github.com/Marcelles0)    |
+| 8 |    Kaiisea     |    Kai    |   Gómez   |        [Kaiisea](https://github.com/Kaiisea)        |
+| 9 |    RocioPG3    |   Rocio   |   Pinazo  | [RocioPG3](https://github.com/RocioPG3) |
 | 10 | RodrigoDiazCarrillo | Rodrigo | Díaz | [RodrigoDiazCarrillo](https://github.com/RodrigoDiazCarrillo) |
 | 11 | TGacek89 | Tomasz | Gacek | [Tgacek89](https://github.com/TGacek89) |
-|   12   |  Benjamin-Re   |  Benjamin  |  Renker  | [Benjamin-Re](https://github.com/Benjamin-Re)|
-| 13  |      Mariopd87      |   Mario   |   Pérez   |             [Mario](https://github.com/Mariopd87)             |
-| 14  |      giovannakbl      |   Giovanna   |   Bertuzzi   |             [giovannakbl](https://github.com/giovannakbl)             |
-| 15  |      Angela8374      |   Angela   |   Mancebo   |             [Angela8374](https://github.com/Angela8374/Angela8374)             |
-| 16  |      Guillermo96TR | Guillermo | Tudela| [Guillermo96TR](https://github.com/Guillermo96TR)|
-| 17  |      DiegoTMillan| Diego | Tapia| [DiegoTMillan](https://github.com/DiegoTMillan)|
-| 18  |      Erika016| Erika | Dominguez| [Erika016](https://github.com/Erika016/HelloWorld_FSWD_10)|
+| 12 |  Benjamin-Re   |  Benjamin  |  Renker  | [Benjamin-Re](https://github.com/Benjamin-Re)|
+| 13 |      Mariopd87      |   Mario   |   Pérez   |             [Mario](https://github.com/Mariopd87)             |
+| 14 |      giovannakbl      |   Giovanna   |   Bertuzzi   |             [giovannakbl](https://github.com/giovannakbl)             |
+| 15 |      Angela8374      |   Angela   |   Mancebo   |             [Angela8374](https://github.com/Angela8374/Angela8374)             |
+| 16 |      Guillermo96TR | Guillermo | Tudela| [Guillermo96TR](https://github.com/Guillermo96TR)|
+| 17 |      DiegoTMillan| Diego | Tapia| [DiegoTMillan](https://github.com/DiegoTMillan)|
+| 18 |      Erika016| Erika | Dominguez| [Erika016](https://github.com/Erika016/HelloWorld_FSWD_10)|
